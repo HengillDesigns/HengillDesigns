@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MHGames9312
 - 👀 I’m interested in Graphic Design, coding and gaming!
 - 🌱 I’m currently learning .py and .js!
+- 🤖 I code Discord bots!
 - 💞️ I’m looking to collaborate on an app project i've got...
 - 📫 How to reach me (Discord) -MH Games-#9999
 
