@@ -1,7 +1,6 @@
 - 👋 Hi, I’m HengillDesigns!
-- 👀 I’m interested in Graphic Design, coding and gaming.
+- 👀 I’m a grahic and UI designer from England.
 - 🌱 I’m currently learning .py and .js.
-- 🤖 I code Discord bots.
 - 📫 How to reach me (Discord) @hengilldesigns.xyz
 
 <!---
