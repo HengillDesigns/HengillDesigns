@@ -1,6 +1,6 @@
 - 👋 Hi, I’m HengillDesigns!
 - 👀 I’m a grahic and UI designer from England.
-- 🌱 I’m currently learning .py and .js.
+- 🌱 Learning .py
 - 📫 How to reach me (Discord) @hengilldesigns.xyz
 
 <!---
