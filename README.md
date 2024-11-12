@@ -1,7 +1,4 @@
-- 👋 Hi, I’m HengillDesigns!
-- 👀 I’m a grahic and UI designer from England.
-- 🌱 Learning .py
-- 📫 How to reach me (Discord) @hengilldesigns.xyz
+avgeek n graphic designer
 
 <!---
 MHGames9312/MHGames9312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
